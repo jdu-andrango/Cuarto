@@ -1,0 +1,106 @@
+double pesosADolares(double pesos) {
+  // Tasa de cambio de pesos mexicanos a dólares estadounidenses
+  double tasaCambio = 0.050; // 1 peso mexicano = 0.050 dólares
+  
+  // Calcular la cantidad equivalente en dólares
+  double dolares = pesos * tasaCambio;
+  
+  // Retornar el resultado
+  return dolares;
+}
+
+
+
+
+  double cantidadPesos = 1000;
+  double cantidadDolares = pesosADolares(cantidadPesos);
+  print("$cantidadPesos pesos equivalen a $cantidadDolares dólares.");
+  
+
+
+
+
+todo/////////////////
+void main() {
+//   for (int i = 0; i < 10; i++) {
+//     print('hello ${i + 1}');
+//   }
+  saludo();
+  edades(45);
+  addParametro(3,5);
+  print(addReturn(3,4));
+  
+  
+  double cantidadPesos = 45;
+  double cantidadDolares = pesosADolares(cantidadPesos);
+  print("$cantidadPesos pesos equivalen a $cantidadDolares dólares.");
+  
+  double cantidadDolares2 = 10;
+//   double cantidadDolares = p
+  
+//   List<int> arr = [64, 34, 25, 12, 22, 11, 90];
+//   print("Lista antes de ordenar: $arr");
+//   bubbleSort(arr);
+//   print("Lista después de ordenar: $arr");
+}
+void saludo(){
+  var nombre = 'jonathan'; 
+  print('mi nombre es ' + nombre);
+}
+
+void edades(int edad){
+  print(edad);
+}
+
+
+void add(){
+  print(1+1);
+}
+
+void addParametro(int a, int b){
+  print(a+b);
+}
+int addReturn(int a,int b){
+  print("$a,$b");
+  return a + b;
+}
+
+
+void arr = [];
+
+// void bubbleSort(List<int> arr) {
+//   int n = arr.length;
+//   for (int i = 0; i < n - 1; i++) {
+//     for (int j = 0; j < n - i - 1; j++) {
+//       if (arr[j] > arr[j + 1]) {
+//         // Intercambiar elementos arr[j] y arr[j+1]
+//         int temp = arr[j];
+//         arr[j] = arr[j + 1];
+//         arr[j + 1] = temp;
+//       }
+//     }
+//   }
+// }
+
+
+
+double pesosADolares(double pesos) {
+  // Tasa de cambio de pesos mexicanos a dólares estadounidenses
+  double tasaCambio = 0.050; // 1 peso mexicano = 0.050 dólares
+  
+  // Calcular la cantidad equivalente en dólares
+  double dolares = pesos * tasaCambio;
+  
+  // Retornar el resultado
+  return dolares;
+}
+double dolaresAPesos(double dolares) {
+  // Tasa de cambio de pesos mexicanos a dólares estadounidenses
+  double tasaCambio = 1.67; // 1 dolar = 16.67 pesos
+  
+  // Calcular la cantidad equivalente en dólares
+  double pesos = dolares * tasaCambio;
+  
+  // Retornar el resultado
+  return pesos;
+}

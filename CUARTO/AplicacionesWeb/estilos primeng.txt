@@ -1,0 +1,31 @@
+prime ng es un poco parecida a boostrappara las empresas
+
+*//////se instala el primeng (que es una libreria de angular un poco mas sobria dea acuerdo a su diseno)  
+npm install primeng
+
+
+luego de la instalacion se debe instalar elcdk 
+
+/////////////
+
+npm install @angular/cdk
+
+/////////////
+npm install primeng primeicons
+
+////////////
+npm install @angular/animations
+
+
+
+*Estructura por bloques primeflex sirve para manegar el diseno en bloque.
+	hace referencia a los elementos que se encuentran en el bloque, pero cuando cambias a celular cambia su diseno
+	en base al tamano usando la medida de los pixeles.
+
+
+
+importar el buton modulw 
+
+en app.modulw
+
+

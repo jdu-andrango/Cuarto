@@ -1,0 +1,104 @@
+Que cosas resuelve la estadistica.
+para aplicar los metododos estadisticos a la informacion disponible, es necesario tener presente los tipos de problemas 
+*descripcion de datos
+*analicis de muestras 
+*Prediccion
+
+Descripcion de ddatos.
+los gastos o preferencias de un grupo de debutantes, debemos tratar de mstrarla en datos para poder tomar una decicion.
+*produccion de maquinas (en la industria se evaluan tambien los tiempos que se demora y el tiempo en ejecucion eso nos 
+la rentabilidad)
+
+Anàlisis de muestras 
+*encuestas 
+*analicis de mercado, no se pregunta a todos solo se investiga a un gruo pequeno porq es impsible preguntar a todos 
+ ya que son muchas personas o datos.
+*encuestas locales en donde mi negosio se desembuelve.
+*decidir si un proceso industrial funciona o no es adecuado.
+*de todo lo que se va estudiar se saca un muestra.
+* solo los equipos medicos deben realizar o recojer los datos de una muestra para saber si esta porsion de la poblacion 
+esta afectada
+*estudiar relaciones directas entre cosas (Ejem el estudio del tabaco relaciona un estudio de cuantas personas por el 
+consumo del tabaco puden desarrolar cancer) todo esto es atraves del levantamiento de datos.
+* Los datos del covid, en medicina se realizan estudios de 10 anos de relacion. pero como aparecio de impreviso 
+el proceso de los datos se realizo una muestra.
+*Juzgar respecto a la demanda potencial de un productomediante un estudio de mercado
+* Orientar estrategia electorial de un partido politico
+
+Mediciones de relaciones.
+* no existe mediciones exactas
+* condiciones del producto 
+*Como se relaciona el rendimiento escolar con variables familiares o sociologicas.
+
+
+Predicicion.
+variables economicas y fisicas tienen sierta inerencia en su evolucion aunq sus valores futuros son desconocidos.
+
+
+
+Obtencion de informacion.
+*determinar que cantidad de datos necesitas para dicho estudio.
+*mediciones de datos atraves del tiempo.
+*NUMERO DE OBSEVACIONES.
+
+
+
+
+metodos de muestreo y los experimentos disenados 
+
+muestreo son los censos 
+
+UNIDAD DE MUESTRA Y MUESTRA EXPERIMENTAL.
+
+
+MUESTRA.
+*obtener concluciones.
+*tamano muestral(aplica cuando la poblacion es demaciado grande)
+*una descripcion de los miembros a ser seleccionados
+
+
+Ejemplos de muestra.
+
+
+
+DATOS Y ESCALAS DE UNA MEDICION 
+
+tipos de datos 
+
+los datos pueden ser.
+cualitativos.(caracteristicas)ç
+cualitativos 
+
+VALORES ATIPICOS
+
+todos los valores atipicos se deben realizar un estudio esaustivo prque podria existir un cambio extremo
+
+CARACTERISTICAS DE LOS DATOS 
+
+localizacion
+dispersion 
+simetria
+
+
+LOCALIZACION: mayora cantidad de datos
+medicion de la estatura de un grupo de personas 
+
+
+DISPERCION: datos dispersos
+
+
+simetria: buena simetria significa que tienes muy bien los datos.
+
+n: obserbaciones
+ni: frecuencia absoluta :  nN1=m=2
+x1: datos
+
+N2= N1+ n2 =2+1=3
+
+fi_: n1/n frecuencia relativa
+
+f1 n1/n 2/5      F1=F1=2/5
+		 f2=f1+f2=2/5+3/5
+
+
+en una taba
